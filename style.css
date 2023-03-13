@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative ;
+    background-image: url("./uqy8U9A.webp");
+    background-repeat: no-repeat;
+    height: 100%;
+}
+form{
+
+    background-color: aliceblue;
+    border-radius:50px;
+   
+}
+input{
+    margin: 0;
+    padding: 10px;
+    border-radius: 10px;
+    right: 0px;
+    
+}
+label{
+    color: blue;
+}
